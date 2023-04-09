@@ -1,0 +1,10 @@
+*.bat
+*.exe
+*.log
+*.pyc
+*.token
+*.txt
+*.yapf
+/src/__pycache__/
+/src/Log/
+/src/test.py
