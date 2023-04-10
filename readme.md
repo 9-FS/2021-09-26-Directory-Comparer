@@ -19,6 +19,6 @@ Limitations:
 - It does not use recursion, so only the immediate child entries are compared.
 - It only compares the entry names, not their actual type or content or anything else.
 
-May be useful for manually syncing 2 folders.
+May be useful for manually syncing folders.
 
 </div>

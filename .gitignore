@@ -3,8 +3,6 @@
 *.log
 *.pyc
 *.token
-*.txt
-*.yapf
-/src/__pycache__/
-/src/Log/
+Directory Differences.txt
+/Log/
 /src/test.py
