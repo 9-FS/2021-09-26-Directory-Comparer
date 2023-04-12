@@ -4,5 +4,5 @@
 *.pyc
 *.token
 Directory Differences.txt
-/Log/
+/log/
 /src/test.py
