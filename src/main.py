@@ -1,11 +1,11 @@
 # Copyright (c) 2023 구FS, all rights reserved. Subject to the MIT licence in `licence.md`.
 import copy
-import KFS.log
+from KFSlog import KFSlog
 import logging
 import os
 
 
-@KFS.log.timeit
+@KFSlog.timeit
 def main() -> None:
     dirs_entries: list[list[str]] = []                          # directory 1 and 2 entries all
     DIRS_LEN: int = 2                                           # number of directories
