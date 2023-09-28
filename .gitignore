@@ -1,8 +1,12 @@
-*.exe
+.exe
 *.log
 *.pyc
 *.token
+
+.hypothesis/
+.pytest_cache/
+doc_templates/
+log/
+
 Directory Differences.txt
-/doc_templates/
-/log/
-/src/test.py
+tests/test.py
