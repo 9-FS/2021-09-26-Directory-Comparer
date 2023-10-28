@@ -1,4 +1,4 @@
-.exe
+*.exe
 *.log
 *.pyc
 *.token
@@ -9,4 +9,5 @@ doc_templates/
 log/
 
 Directory Differences.txt
+Dockerfile
 tests/test.py
