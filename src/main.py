@@ -6,7 +6,7 @@ import os
 
 
 @KFSlog.timeit
-def main() -> None:
+def main(DEBUG: bool) -> None:
     dirs_entries: list[list[str]]=[]                    # directory 1 and 2 entries all
     DIRS_LEN: int=2                                     # number of directories
     dirs_path: list[str]=[]                             # directory absolute paths
